@@ -1,0 +1,11 @@
+/* Navbar CSS */
+.navbar {
+    width: 100%;  /* Ensure it spans the full width */
+    position: fixed;  /* Fix the navbar at the top */
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: #333;  /* Example background */
+    z-index: 1000;  /* Ensure it stays on top */
+  }
+  
