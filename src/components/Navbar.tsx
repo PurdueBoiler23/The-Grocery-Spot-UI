@@ -27,7 +27,10 @@ export default function ButtonAppBar() {
         Home
       </Button>
       <Button color="inherit" component={Link} to="/sales">
-        Sales
+        Sales Table
+      </Button>
+      <Button color="inherit" component={Link} to="/reports">
+        KPI Reports
       </Button>
     </Toolbar>
   </AppBar>
